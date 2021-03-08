@@ -4,7 +4,7 @@
 
 ### My website
 
-#### [Personal blog](aleafwolf.github.io)
+#### [Personal blog](https://aleafwolf.github.io/)
 
 <!--
 **ALeafWolf/ALeafWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
